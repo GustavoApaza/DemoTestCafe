@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test5": "testcafe firefox tests/5-hooks.js"
+  },
+  "devDependencies": {
+    "testcafe": "^1.18.4"
+  }
+}
